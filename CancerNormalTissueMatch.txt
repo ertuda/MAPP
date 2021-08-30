@@ -1,0 +1,18 @@
+Cancer	Normal.tissue.1	Normal.tissue.2	Normal.tissue.3	Normal.tissue.4	Normal.tissue.5	Normal.tissue.6	Normal.tissue.7
+breast cancer	breast	none	none	none	none	none	none
+cervical cancer	cervix, uterine	none	none	none	none	none	none
+colorectal cancer	colon	rectum	none	none	none	none	none
+endometrial cancer	endometrium 1	endometrium 2	none	none	none	none	none
+glioma	caudate	cerebral cortex	hippocampus	hypothalamus	dorsal raphe	cerebellum	substantia nigra
+liver cancer	liver	none	none	none	none	none	none
+lung cancer	lung	none	none	none	none	none	none
+lymphoma	lymph node	none	none	none	none	none	none
+melanoma	skin 1	none	none	none	none	none	none
+ovarian cancer	ovary	none	none	none	none	none	none
+pancreatic cancer	pancreas	none	none	none	none	none	none
+prostate cancer	prostate	none	none	none	none	none	none
+renal cancer	kidney	none	none	none	none	none	none
+skin cancer	skin 1	none	none	none	none	none	none
+stomach cancer	stomach 1	stomach 2	none	none	none	none	none
+testis cancer	testis	none	none	none	none	none	none
+urothelial cancer	urinary bladder	none	none	none	none	none	none

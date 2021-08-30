@@ -1,0 +1,18 @@
+Cancer	Normal.cell.type.1	Normal.cell.type.2
+breast cancer	glandular cells	myoepithelial cells
+cervical cancer	glandular cells	squamous epithelial cells
+colorectal cancer	glandular cells	none
+endometrial cancer	glandular cells	none
+glioma	glial cells	none
+liver cancer	hepatocytes	none
+lung cancer	pneumocytes	none
+lymphoma	germinal center cells	non-germinal center cells
+melanoma	melanocytes	none
+ovarian cancer	follicle cells	none
+pancreatic cancer	exocrine glandular cells	none
+prostate cancer	glandular cells	none
+renal cancer	cells in tubules	none
+skin cancer	keratinocytes	none
+stomach cancer	glandular cells	none
+testis cancer	spermatogonia cells	none
+urothelial cancer	urothelial cells	none
